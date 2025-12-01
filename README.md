@@ -3,7 +3,7 @@
 CREATOR website: https://creatorsim-community.github.io/creator/ <br>
 CREATOR Source code: https://github.com/creatorsim-community/creator
 
-![Logo for CREATOR](logo/creator-logo.svg)
+![Logo for CREATOR](logo/logo-creator.png)
 
 
 ## Publications
