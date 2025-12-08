@@ -1,9 +1,9 @@
 # Integrated development environment for teaching and research on RISC-V processors
 
-|                              | URL                                             | 
-|:----------------------------:|:------------------------------------------------| 
-| Creator                      | https://creatorsim-community.github.io/creator/ |
-| Source code                  | https://github.com/creatorsim-community/creator | 
+|                              | URL                                        | 
+|:----------------------------:|:-------------------------------------------| 
+| Creator                      | https://creatorsim.github.io/creator/      |
+| Source code                  | https://github.com/creatorsim/creator      | 
 
 <p align="center">
     <img src="logo/logo-creator.png" alt="Logo for CREATOR" width="300">
